@@ -1,10 +1,12 @@
 
+/*
 __author__      = "Shafqat Rehman (shafqat.rehman@gmail.com)"
 __version__     = "$Revision: 1.0 $"
 __date__        = "$Date: 2014/09/10 13:00:00 $"
 __copyright__   = "Copyright (c) 2014 Shafqat Rehman"
 __license__     = "GNU GPL"
 
+*/
 
 #include <iostream>
 #include <fstream>
